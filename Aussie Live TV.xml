@@ -1,0 +1,51 @@
+<xml>
+  <dir>
+    <title>Aussie Sport</title>
+    <link>file://Aussie Sport.xml</link>
+  </dir>
+
+    <dir>
+    <title>Channel 7</title>
+    <link>file://Channel 7.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101305020520.png</thumbnail>
+  </dir>
+  
+  <dir>
+    <title>Channel 9</title>
+    <link>file://Channel 9.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101204200421.png</thumbnail>
+  </dir>  
+  
+  <dir>
+    <title>Channel Ten</title>
+    <link>file://Channel Ten.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.101406020625.png</thumbnail>
+  </dir>
+
+  <dir>
+    <title>Government TV</title>
+    <link>file://Government TV.xml</link>
+	<thumbnail>https://raw.githubusercontent.com/matthuisman/iptv/master/au/images/tv.320203000301.png</thumbnail>
+  </dir>
+
+  <dir>
+    <title>Random TV</title>
+    <link>file://Random TV.xml</link>
+	<thumbnail></thumbnail>
+  </dir>
+
+<item>
+   <title>Fetch TV Movie Trailers</title>
+   <link>http://cdnl.fetchtv.micdn.net.au//trail/mobile.m3u8</link>
+   <thumbnail>http://pacific.network/wp-content/uploads/2016/12/fetch.jpg</thumbnail>
+</item>
+
+<item>
+   <title></title>
+   <link></link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+
+  
