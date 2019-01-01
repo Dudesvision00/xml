@@ -32,43 +32,43 @@ and leave a request</title>
   
   <dir>
     <title>Movies</title>
-    <link>file://movies.xml</link>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/movies.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/dudelove00/artwork/master/AM%20movies.jpg</thumbnail>
   </dir>
   
   <dir>
     <title>TV</title>
-    <link>file://tv.xml</link>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/tv.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/dudelove00/artwork/master/AM%20TV%20shows.jpg</thumbnail>
   </dir>
   
   <dir>
     <title>1 Click</title>
-    <link>file://one click.xml</link>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/one%20click.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/dudelove00/artwork/master/AM%201%20Click%20Movies.jpg</thumbnail>
   </dir>
   
   <dir>
-    <title>Aussie Live TV</title>
-    <link>file://Aussie Live TV.xml</link>
+    <title>https://Aussie Live TV</title>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Aussie%20Live%20TV.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/dudelove00/artwork/master/AM%20Live%20TV.jpg</thumbnail>
   </dir>
   
   <dir>
     <title>Aussie Motor Sports</title>
-    <link>file://Aussie Motor Sport.xml</link>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Aussie%20Motor%20Sport.xml</link>
 	<thumbnail>https://raw.githubusercontent.com/dudelove00/artwork/master/AM%20Motorsports.jpg</thumbnail>
   </dir>
   
   <dir>
     <title>Anime for Russell</title>
-    <link>file://Anime.xml</link>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/Anime.xml</link>
 	<thumbnail></thumbnail>
   </dir>
   
   <dir>
     <title>Testing Zone</title>
-    <link>file://test.xml</link>
+    <link>https://raw.githubusercontent.com/Dudesvision00/xml/master/test.xml</link>
 	<thumbnail>https://github.com/dudelove00/artwork/blob/master/test.jpg</thumbnail>
   </dir>
   
